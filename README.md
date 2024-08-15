@@ -26,7 +26,7 @@ Whether you're a bride-to-be, a Mehndi artist, or someone looking to apply Mehnd
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/mehndi-design-app.git
+   git clone (https://github.com/asim-ghani/MehndiDesignApp.git)
    
 2. **Open in Android Studio:**
     Open Android Studio.
