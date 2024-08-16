@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MehndiDesign2023"
+        android:usesCleartextTraffic="true"
+        tools:targetApi="31">
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="applovin.sdk.key"
+            android:value="43Gyq6NvLCbgQGJKN8GochycWr38_GZV7PtyRe8dUMsJsX6kvIQUrImZGoCX9NNvwawNwoKbgP9JHL2KDzc19C" />
+
+        <activity
+            android:name=".EidDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Arabic"
+            android:exported="false" />
+        <activity
+            android:name=".ArabicDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Foot"
+            android:exported="false" />
+        <activity
+            android:name=".FootDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Fhand"
+            android:exported="false" />
+        <activity
+            android:name=".FhandDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Bhand"
+            android:exported="false" />
+        <activity
+            android:name=".BhandDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Finger"
+            android:exported="false" />
+        <activity
+            android:name=".FingerDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Glitter"
+            android:exported="false" />
+        <activity
+            android:name=".GlitterDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Jewelery"
+            android:exported="false" />
+        <activity
+            android:name=".JeweleryDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Eid"
+            android:exported="false" />
+        <activity
+            android:name=".BridalDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Bridal"
+            android:exported="false" />
+        <activity
+            android:name=".HennaDetail"
+            android:exported="false" />
+        <activity
+            android:name=".Henna"
+            android:exported="false" />
+        <activity
+            android:name=".Trending"
+            android:exported="false" />
+        <activity
+            android:name=".TrendingDetail"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+        </activity>
+    </application>
+
+</manifest>

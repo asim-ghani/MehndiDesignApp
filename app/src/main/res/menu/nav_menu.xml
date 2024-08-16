@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/communication">
+        <menu>
+            <item android:icon="@drawable/more" android:id="@+id/nav_more" android:title="@string/more"/>
+            <item android:icon="@drawable/rate" android:id="@+id/nav_rate" android:title="@string/rate"/>
+            <item android:icon="@drawable/share" android:id="@+id/nav_share" android:title="@string/share"/>
+        </menu>
+    </item>
+    <group android:checkableBehavior="single">
+        <item android:icon="@drawable/feedback" android:id="@+id/feedBack" android:title="Send Your Feedback" android:fontFamily="sans-serif-condensed-medium"/>
+    </group>
+</menu>

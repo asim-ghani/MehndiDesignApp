@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Mehndi Design 2023</string>
+    <string name="latest_mehndi">Latest Mehndi Designs 2023</string>
+    <string name="designs_2023">Designs 2023</string>
+    <string name="more">More Apps</string>
+    <string name="rate">Rate this app</string>
+    <string name="share">Share this App</string>
+    <string name="privacy">Privacy Policy</string>
+    <string name="communication">Communication</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="trending_designs">Trending 2023</string>
+    <string name="new_henna_2023">New Henna 2023</string>
+    <string name="bridal_designs">Bridal Designs</string>
+    <string name="eid_designs">Eid Designs</string>
+    <string name="arabic_designs">Arabic Designs</string>
+    <string name="foot_designs">Foot Designs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="latest_mehndi_designs">Latest Mehndi Designs</string>
+</resources>
