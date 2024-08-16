@@ -8,6 +8,17 @@ The **Mehndi Design App** is a mobile application built for Android devices that
 
 Whether you're a bride-to-be, a Mehndi artist, or someone looking to apply Mehndi for a special occasion, this app provides plenty of design inspiration.
 
+## Screenshots
+
+### Home Screen
+![Home Screen](Screenshots/screen1.png)
+
+### Design Collection
+![Design Collection](Screenshots/screen2.png)
+
+### Designs
+![Favorite Designs](Screenshots/screen3.png)
+
 ## Features
 
 - **Extensive Collection**: Browse through a wide range of Mehndi designs including Bridal, Arabic, Indian, and Pakistani styles.
